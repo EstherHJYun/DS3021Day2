@@ -4,7 +4,7 @@
 
 # %% Create a virtual environment 
 
-# No, you should not include the environment because the other people working on the project can create their own virtual environment using the requirements.txt file. 
+# No, you should not include the environment because other people working on the project can create their own virtual environment using the requirements.txt file. 
 
 # Terminal display path: /workspaces/DS3021Day2
 # The terminal display path is not different. 
